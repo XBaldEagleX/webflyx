@@ -1,0 +1,5 @@
+# Ignore the entire secure directory (including passwords.txt)
+secure/
+
+# Ignore the guilty pleasures list
+guilty_pleasures.md
